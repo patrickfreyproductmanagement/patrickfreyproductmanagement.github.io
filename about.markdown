@@ -8,7 +8,7 @@ I am a passionate product manager with over 10 years' experience. I am working a
 
 # Products / solutions I have led
 
-I have gained most of my experience from working on ETAS EHANDBOOK. [ETAS EHANDBOOK](http://www.etas.com/ehandbook) is an interactive documentation solution for automotive embedded software. 
+I have gained most of my experience from working on the ETAS EHANDBOOK solution. [ETAS EHANDBOOK](http://www.etas.com/ehandbook) is an interactive documentation solution for automotive embedded software. 
 
 It helps users to 
 1. **find** relevant information quickly, 

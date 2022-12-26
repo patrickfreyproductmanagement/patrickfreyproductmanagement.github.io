@@ -33,6 +33,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages: 
+  - about.markdown
+  - custom_methods_tools.markdown  
+  - blog.markdown
+  - books.md  
+
+collections:
+  - methods_and_tools
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
