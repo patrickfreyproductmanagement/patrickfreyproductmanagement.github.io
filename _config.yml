@@ -40,7 +40,9 @@ header_pages:
   - books.md  
 
 collections:
-  - methods_and_tools
+  books:
+    output: true
+    sort_by: order
 
 # Exclude from processing.
 # The following items will not be processed, by default.

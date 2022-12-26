@@ -25,7 +25,7 @@ In 2013, I had the luck to participate in a product management workshop led by M
 
 At that time, I was working as product manager on the first version of ETAS EHANDBOOK. 
 
-In the workshop, Marty shared a lot of knowledge on how successful product teams work and create value for its customers. Besides the inspirational workshop, Marty also shared a copy of his book **Inspired: How to create products customers love.** with each of the participants. 
+In the workshop, Marty shared a lot of knowledge on how successful product teams work and create value for their customers. Besides the inspirational workshop, Marty also shared a copy of his book **Inspired: How to create products customers love.** with each of the participants. 
 
 10 years later, by end of 2022, I had the luck to attend the **Lean Product Management** training by [Itamar Gilad](https://itamargilad.com/). 
 
