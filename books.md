@@ -14,14 +14,11 @@ On the other hand, I was not so lucky as there was hardly any professional train
 
 I was this when I realized that most knowledge can be acquired through self-study, primarily through reading online articles or books written by innovators, great product leaders and others. 
 
-* Eric Ries: The Lean Startup
-* Marty Cagan: Inspired
-* Clayton M. Christensen: The Innovator's Dilemma
-* Steven G. Blank: The Four Steps to Epiphany
-* Tony Hsieh: Delivering Happiness
-* Nancy Duarte: resonate
-* Nancy Duarte: slide:ology
-* Alexander Osterwalder, Yven Pigneur: Business Model Generation
-* Alexander Osterwalder et al: Value Proposition Design
-* Jeff Dyer, Hal Gregersen, Clayton M. Christensen: The Innovator's DNA
+<ul>
+{% for book in site.books %}
+  <li>
+    <a href="{{ book.url }}"><b>{{ book.author }}:</b> {{ book.title }}</a>
+  </li>
+{% endfor %}
+</ul>
 
