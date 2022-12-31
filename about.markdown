@@ -19,6 +19,8 @@ Check out what EHANDBOOK is all about: Understand vehicle software faster!
 
 <iframe width="100%" height="415px" src="https://www.youtube.com/embed/XFDOwmg1ijM" title="EHANDBOOK – Understand vehicle software faster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In 2016, the readers of the trade magazines Elektronik and [Elektronik automotive](https://www.elektroniknet.de/elektronik-automotive/) voted EHANDBOOK on the 3rd place in their **"Product of the Year 2016"** award (see [article](https://www.etas.com/data/RealTimes_2016/rt_2016_1_30_en.pdf)). 
+
 # My take on product management
 
 In 2013, I had the luck to participate in a product management workshop led by Marty Cagan from [Silicon Valley Product Group (SPVG)](https://www.svpg.com/). 

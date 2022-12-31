@@ -15,7 +15,7 @@ Or they anyways do not have another choice, so why try harder?
 My personal opinion is that there is often a lack of focus on what users who work with the tools really want and need. 
 Also, I believe that the exuses are neither helpful for those who have to use the tools nor those who create and maintain them. 
 
-My primary focus is on building engineering tools that do not suck, but ones that users really, really like using. 
+My primary focus is on building engineering tools that users really like using. 
 I draw great inspiration from others who have succeeded in doing so and try to apply it to my own work. 
 As I like experimentation, I also develop my own methods which I want to share with others. 
 
