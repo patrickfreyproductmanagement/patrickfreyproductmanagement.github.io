@@ -3,13 +3,51 @@
 // Define defaults for each variable.
 // Colors from PPT template
 $color1: #04617b;
+$color1-100: #04617b;
+$color1-90: #1d7088;
+$color1-80: #368095;
+$color1-70: #4f90a2;
+$color1-60: #68a0af;
+$color1-50: #81b0bd;
+$color1-40: #9abfca;
+$color1-30: #b3cfd7;
+$color1-20: #ccdfe4;
+$color1-10: #e5eff1;
+$color1-0: #ffffff;
+
 $color2: #0f6fc6;
+$color2-100: #0f6fc6;
+$color2-90: #267dcb;
+$color2-80: #3e8bd1;
+$color2-70: #579ad7;
+$color2-60: #6fa8dc;
+$color2-50: #87b7e2;
+$color2-40: #9fc5e8;
+$color2-30: #b7d3ed;
+$color2-20: #cfe2f3;
+$color2-10: #e7f0f9;
+$color2-0: #ffffff;
+
 $color3: #009dd9;
+$color3-100: #009dd9;
+$color3-90: #19a6dc;
+$color3-80: #32b0e0;
+$color3-70: #4cbae4;
+$color3-60: #66c4e8;
+$color3-50: #7fceec;
+$color3-40: #99d7ef;
+$color3-30: #b2e1f3;
+$color3-20: #ccebf7;
+$color3-10: #e5f5fb;
+$color3-0: #ffffff;
+
+
 $color4: #0bd0d9;
 $color5: #10cf9b;
 $color6: #7cca62;
 $color7: #a5c249;
 $color8: #ff9933;
+$color9: #E7EBF5;
 
 // Other nice colors
 /*
@@ -40,9 +78,11 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      $color1 !default;
+$brand-color:      $color2-10 !default;
 
 $link-color: $color8;
+$header-font-color: #111111 !default;
+$footer-font-color: #111111 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
