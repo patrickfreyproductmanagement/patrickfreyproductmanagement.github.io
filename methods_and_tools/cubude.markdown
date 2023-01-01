@@ -100,3 +100,6 @@ The **CUBUDE method** can greatly **help you** to **take more rationale prioriti
 - There exist **constraints** such as **technical** or **external dependencies** that also need to be taken into account. 
 - **Examining** product backlog items **from different perspectives** creates transparency and insights for **taking better prioritization decisions**. 
 - The three most relevant perspectives are the **customer perspective**, the **development perspective** and the **business perspective**.
+
+
+{% include cubude_downloads.markdown %}
