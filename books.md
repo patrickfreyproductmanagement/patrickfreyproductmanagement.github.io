@@ -22,3 +22,12 @@ I was this when I realized that most knowledge can be acquired through self-stud
 {% endfor %}
 </ul>
 
+<br/>
+<hr/>
+<br/>
+
+## The CUBUDE method
+
+[CUBUDE](/cubude) is a method I have developed for prioritizing product backlogs. 
+
+{% include cubude_downloads.markdown %}
