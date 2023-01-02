@@ -12,7 +12,7 @@ layout: home
         I'm <b><a href="/about">Patrick</a></b>, a <b>passionate product manager</b> with over 10 years' experience in building software tools for automotive software engineers. 
         </p>
         <p>
-            My key interests are 
+            My <b>key interests</b> as product manager are 
             <ul>
                 <li>
                     <b>building software-based products</b> that users <b>really like using</b>
@@ -23,7 +23,7 @@ layout: home
             </ul>
         </p>
     </div>
-    <div style="width: 30%">
+    <div style="width: 30%; margin-left:50px">
         <img src="/assets/Patrick_Frey_Profilbild_2.jpg" alt="Patrick Frey">
     </div>
 </div>
