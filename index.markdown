@@ -6,8 +6,8 @@ layout: home
 ---
 
 <h1>Hi,</h1>
-<div style="display: flex;">
-    <div style="width: 70%">        
+<div class="cards">
+    <div class="card">
         <p>
         I'm <b><a href="/about">Patrick</a></b>, a <b>passionate product manager</b> with over 10 years' experience in building software tools for automotive software engineers. 
         </p>
@@ -23,7 +23,7 @@ layout: home
             </ul>
         </p>
     </div>
-    <div style="width: 30%; margin-left:50px">
+    <div class="card">
         <img src="/assets/Patrick_Frey_Profilbild_2.jpg" alt="Patrick Frey">
     </div>
 </div>

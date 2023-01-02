@@ -1,0 +1,27 @@
+.card {
+    padding: 1rem;    
+}
+
+.cards {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    gap: 1rem;
+}
+
+.cards-2 {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    gap: 3rem;
+}
+
+@media (min-width: 900px) {
+    .cards {
+        grid-template-columns: 690px 400px;
+    }
+
+    .cards-2 {
+        grid-template-columns: 400px 200px 390px;
+    }    
+}
