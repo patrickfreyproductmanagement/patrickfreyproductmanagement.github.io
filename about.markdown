@@ -17,7 +17,10 @@ It helps users to
 
 Check out what EHANDBOOK is all about: Understand vehicle software faster!
 
-<iframe width="100%" height="415px" src="https://www.youtube.com/embed/XFDOwmg1ijM" title="EHANDBOOK – Understand vehicle software faster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-wrapper">
+<iframe width="1190" height="668" src="https://www.youtube.com/embed/XFDOwmg1ijM" title="EHANDBOOK – Understand vehicle software faster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
 
 In 2016, the readers of the trade magazines Elektronik and [Elektronik automotive](https://www.elektroniknet.de/elektronik-automotive/){:target="_blank"} voted EHANDBOOK on the 3rd place in their **"Product of the Year 2016"** award (see [article](https://www.etas.com/data/RealTimes_2016/rt_2016_1_30_en.pdf){:target="_blank"}). 
 
@@ -28,6 +31,9 @@ In 2013, I had the luck to participate in a product management workshop led by M
 At that time, I was working as product manager on the first version of ETAS EHANDBOOK. 
 
 In the workshop, Marty shared a lot of knowledge on how successful product teams work and create value for their customers. Besides the inspirational workshop, Marty also shared a copy of his book **Inspired: How to create products customers love.** with each of the participants. 
+
+Marty's workshop was a spark. From then on, I was all on fire to become the best product manager  I can be. 
+Besides Marty's book, I read a lot of [other books](/books) as well as articles I found on the internet - many of which I found useful for my work. 
 
 10 years later, by end of 2022, I had the luck to attend the **Lean Product Management** training by [Itamar Gilad](https://itamargilad.com/){:target="_blank"}. 
 

@@ -28,6 +28,8 @@ twitter_username: patrickcfrey
 # github_username:  patrickfrey
 linkedin_username: freypatrick
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
