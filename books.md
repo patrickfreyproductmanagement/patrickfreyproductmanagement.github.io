@@ -26,8 +26,16 @@ I was this when I realized that most knowledge can be acquired through self-stud
 <hr/>
 <br/>
 
+{% include cubude_teaser.html %}
+
+{% include value_based_pricing_teaser.html %}
+
+
+<!--
 ## The CUBUDE method
 
 [CUBUDE](/cubude) is a method I have developed for prioritizing product backlogs. 
 
 {% include cubude_downloads.markdown %}
+
+-->

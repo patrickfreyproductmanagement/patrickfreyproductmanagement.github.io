@@ -5,15 +5,35 @@
 layout: home
 ---
 
-Hi, I'm **Patrick**, a **passionate product manager** with over 10 years' experience in building software tools for automotive software engineers. 
+<h1>Hi,</h1>
+<div style="display: flex;">
+    <div style="width: 70%">        
+        <p>
+        I'm <b><a href="/about">Patrick</a></b>, a <b>passionate product manager</b> with over 10 years' experience in building software tools for automotive software engineers. 
+        </p>
+        <p>
+            My key interests are 
+            <ul>
+                <li>
+                    <b>building software-based products</b> that users <b>really like using</b>
+                </li>
+                <li>
+                    <b>linking the customer value</b> delivered by the products (or services) <b>to prices and sales argumentations</b> that <b>convince customers</b> to invest and purchase, ultimately resulting in <b>profitable businesses</b>
+                </li>
+            </ul>
+        </p>
+    </div>
+    <div style="width: 30%">
+        <img src="/assets/Patrick_Frey_Profilbild_2.jpg" alt="Patrick Frey">
+    </div>
+</div>
 
-My two key interests are 
+On this site, I share [my experiences, personal views]({% link blog.markdown %}) as well as [methods and tools that I have adopted or developed]({% link custom_methods_tools.markdown %}). 
 
-1. **building software-based products** that users **really like using**
-2. **linking the customer value** delivered by the products (or services) **to prices and sales argumentations** that **convince customers** to invest and purchase, ultimately resulting in **profitable businesses**
+{% include cubude_teaser.html %}
 
-On this site, I share [**my experiences**, **personal views**]({% link blog.markdown %}) as well as [**methods and tools that I have adopted or developed**]({% link custom_methods_tools.markdown %}). 
+{% include value_based_pricing_teaser.html %}
 
-Feel free to get in touch via [email](mailto:patrick-frey@gmx.de), [LinkedIn](https://www.linkedin.com/in/freypatrick) or [Twitter](https://twitter.com/patrickcfrey). 
+## Get in touch
 
-![Patrick Frey](/assets/Patrick_Frey_Profilbild_2.jpg){:width="300"}
+Feel free to reach out via [email](mailto:patrick-frey@gmx.de), [LinkedIn](https://www.linkedin.com/in/freypatrick) or [Twitter](https://twitter.com/patrickcfrey). 
