@@ -12,4 +12,6 @@ As the methods and tools have served me well, my goal is to share these with oth
 * Deriving prices and sales argumentations by means of [value-based pricing]({% link methods_and_tools/value_based_pricing.markdown %}), a [pricing method]({% link methods_and_tools/pricing_methods.markdown %}) that is deemed superior to others and integrates very well with approaches and methods used in new product development. 
 
 
+{% include cubude_teaser.html %}
 
+{% include value_based_pricing_teaser.html %}
