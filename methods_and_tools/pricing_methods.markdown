@@ -10,7 +10,7 @@ They also have become the de-facto standard when it comes to creating new produc
 
 While there is a lot of literature about agile development approaches (e.g., Scrum, Kanban; LeSS, SAFe), developing business models (e.g., Business Model Generation), user experience approaches and methods (e.g., Lean UX), there are few little efforts towards how to come up with prices for newly created products and services, and how to come up with convincing sales argumentations for the latter. 
 
-This important aspect is referred to as _pricing_, and there are various methods for how to define prices for new products and services.
+This important aspect is referred to as **pricing**, and there are various methods for how to define prices for new products and services.
 
 - [Cost-oriented pricing](#cost-oriented-pricing)
 - [Break-even analysis](#break-even-analysis)
