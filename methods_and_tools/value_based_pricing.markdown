@@ -115,3 +115,5 @@ Addressed audience:
 
 - Solution managers, product managers / owners, pricing specialists and sales experts who want to level up their skills quickly
 - Companies who do not want to spent thousands of US dollars or Euros on lengthy consulting projects 
+
+{% include value_based_pricing_downloads.markdown %}
