@@ -2,7 +2,7 @@
 
 ### ebook
 
-In the eBook (63 pages) I explain how to prioritize a product backlog with the CUBUDE method (CUstomer value, BUsiness value, DEvelopment effort). 
+In the eBook (62 pages) I explain how to prioritize a product backlog with the CUBUDE method (CUstomer value, BUsiness value, DEvelopment effort). 
 
 <div class="cards-2">
     <div class="card">
