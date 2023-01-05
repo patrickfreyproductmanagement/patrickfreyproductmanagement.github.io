@@ -102,18 +102,5 @@ Value-based pricing is a method for deriving and arguing prices for products or 
 2. In **value quantification**, it is identified **how much** value is created by your product or service at your customers and **how often** this is happening
 3. The **customer business case** builds a credible **sales argumentation** by pointing out the **total cost of ownership** of your product or service for your customer. This includes pointing out the **total value created** as well as the **switching costs** involved. 
 
-<br/>
-<hr/>
-<br/>
-
-# Practical / Definitive Guide to Value-Based Pricing
-
-I am currently working on a practical / definitive guide (in the form of an ebook and presentation) to value-based pricing. 
-In the material, I will provide detailed explanations on all steps involved and practical guides for how to apply them to your product or service. 
-
-Addressed audience:
-
-- Solution managers, product managers / owners, pricing specialists and sales experts who want to level up their skills quickly
-- Companies who do not want to spent thousands of US dollars or Euros on lengthy consulting projects 
 
 {% include value_based_pricing_downloads.markdown %}

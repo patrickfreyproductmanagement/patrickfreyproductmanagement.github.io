@@ -1,3 +1,5 @@
+<hr/>
+
 ## Resources
 
 ### ebook
@@ -7,14 +9,14 @@ Especially, I outline which supporting methods can be used to identify and quant
 
 <div style="display: flex;">
     <div style="width: 50%;">
-        <a href="/assets/Value-Based Pricing (book).pdf" download>
+        <a download>
             <img src="/assets/Value_Based_Pricing_Book_V2.jpg" alt="Value-Based Pricing (book).pdf" width="250px">
         </a>
     </div>
     <div style="width: 40%;">    
-        <a href="/assets/Value-Based Pricing (book).pdf" download>
+        <a download style="text-decoration: none">
             <div style="border: 2px solid; border-color: #2a7ae2; padding:10px; background-color: #2a7ae2; color: white;">
-                Download
+                Download (Coming soon)
             </div>
         </a>
     </div>
@@ -28,14 +30,14 @@ Especially, I outline which supporting methods can be used to identify and quant
 
 <div style="display: flex;">
     <div style="width: 50%;">
-        <a href="/assets/Value-Based Pricing (slides).pdf" download>
+        <a download>
             <img src="/assets/Value_Based_Pricing_Slides_V2.jpg" alt="Value-Based Pricing (slides).pdf" width="350px">
         </a>
     </div>
     <div style="width: 40%;">    
-        <a href="/assets/Value-Based Pricing (slides).pdf" download>
+        <a download style="text-decoration: none">
             <div style="border: 2px solid; border-color: #2a7ae2; padding:10px; background-color: #2a7ae2; color: white;">
-                Download
+                Download (Coming soon)
             </div>
         </a>
     </div>
