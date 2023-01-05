@@ -27,8 +27,8 @@ I was this when I realized that most knowledge can be acquired through self-stud
 <div class="cards-3">
 {% for book in site.books %}    
     <div class="card">
-        <a href="{{ book.url }}">
-            <img src="/assets/books/{{ book.cover_image }}" alt="{{ book.author }}:</b> {{ book.title }}">
+        <a href="{{ book.url | relative_url }}">
+            <img src="{{ '/assets/books/' | relative_url }}{{ book.cover_image }}" alt="{{ book.author }}:</b> {{ book.title }}">
         </a>        
     </div>
     <div class="card">
@@ -38,7 +38,7 @@ I was this when I realized that most knowledge can be acquired through self-stud
         <p>
           {{ book.summary }}
         </p>        
-        <a href="{{ book.url }}"><b>More</b></a>
+        <a href="{{ book.url | relative_url }}"><b>More</b></a>
     </div>    
 {% endfor %}
 </div>    

@@ -14,7 +14,7 @@ In Scrum, for example, the [product backlog](https://www.scrum.org/resources/wha
 
 In theory, the product backlog is a prioritized list of work items where the first item has the highest priority, followed by second, etc.
 
-![Product Backlog](/assets/Product_Backlog_Pichler.jpg){:width="auto"}
+![Product Backlog]({{ '/assets/Product_Backlog_Pichler.jpg' | relative_url }}){:width="auto"}
 
 But how to prioritize a set of work items? 
 
@@ -87,7 +87,7 @@ By bringing together the insights from three different perspectives, it is possi
 - creating packages of product backlog items for incremental release versions
 - cross-checking Business Value and Development Efforts
 
-![Product Backlog prioritized with help of CUBUDE](/assets/Product_Backlog_Prioritized_CUBUDE.jpg){:width="auto"}
+![Product Backlog prioritized with help of CUBUDE]({{ '/assets/Product_Backlog_Prioritized_CUBUDE.jpg' | relative_url }}){:width="auto"}
 
 
 ## Summary

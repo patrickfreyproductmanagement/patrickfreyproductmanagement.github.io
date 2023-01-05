@@ -39,7 +39,7 @@ The goal is to pay as little as possible.
 
 There are, however, better approaches to arrive at deals that are better for both the purchaser and the seller. 
 
-From my own experience, a method called [value-based pricing (VBP)](/value_based_pricing) is best suitable for deriving not only suitable prices, but also come up with viable sales arguments. 
+From my own experience, a method called [value-based pricing (VBP)]({{ '/value_based_pricing' | relative_url }}) is best suitable for deriving not only suitable prices, but also come up with viable sales arguments. 
 However, it's the responsibility of the seller not only to come up with the pricing, but also provide all the arguments for why this offer is better for the customer - even if there are cheaper offers by competitors. 
 
 ## #3 The missing link: value-centric product development and pricing

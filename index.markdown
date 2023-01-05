@@ -5,11 +5,13 @@
 layout: home
 ---
 
+URL: {{ url }}
+
 <h1>Hi,</h1>
 <div class="cards">
     <div class="card">
         <p>
-        I'm <b><a href="/about">Patrick</a></b>, a <b>passionate product manager</b> with over 10 years' experience in building software tools for automotive software engineers. 
+        I'm <b><a href="{{ /about | relative_url }}">Patrick</a></b>, a <b>passionate product manager</b> with over 10 years' experience in building software tools for automotive software engineers. 
         </p>
         <p>
             My <b>key interests</b> as product manager are 
@@ -24,7 +26,7 @@ layout: home
         </p>
     </div>
     <div class="card">
-        <img src="/assets/Patrick_Frey_Profilbild_2.jpg" alt="Patrick Frey">
+        <img src="{{ '/assets/Patrick_Frey_Profilbild_2.jpg' | relative_url }}" alt="Patrick Frey">
     </div>
 </div>
 

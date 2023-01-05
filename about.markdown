@@ -33,7 +33,7 @@ At that time, I was working as product manager on the first version of ETAS EHAN
 In the workshop, Marty shared a lot of knowledge on how successful product teams work and create value for their customers. Besides the inspirational workshop, Marty also shared a copy of his book **Inspired: How to create products customers love.** with each of the participants. 
 
 Marty's workshop was a spark. From then on, I was all on fire to become the best product manager  I can be. 
-Besides Marty's book, I read a lot of [other books](/books) as well as articles I found on the internet - many of which I found useful for my work. 
+Besides Marty's book, I read a lot of [other books]({{ '/books' | relative_url }}) as well as articles I found on the internet - many of which I found useful for my work. 
 
 10 years later, by end of 2022, I had the luck to attend the **Lean Product Management** training by [Itamar Gilad](https://itamargilad.com/){:target="_blank"}. 
 
