@@ -5,8 +5,6 @@
 layout: home
 ---
 
-URL: {{ url }}
-
 <h1>Hi,</h1>
 <div class="cards">
     <div class="card">
