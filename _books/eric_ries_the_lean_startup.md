@@ -4,8 +4,9 @@ author: Eric Ries
 title: The Lean Startup
 order: 1
 amazon_link: https://www.amazon.de/INSPIRED-Create-Tech-Products-Customers/dp/1119387507
+summary: This now famous book came out in 2011 just when I started my product management career. 
+cover_image: eric_ries_the_lean_startup.jpg
 ---
-
 This now famous book came out in 2011 just when I started my product management career. 
 In fact, I was not doing product management for an already established product, but more trying to develop an idea for a new product at an existing company. 
 

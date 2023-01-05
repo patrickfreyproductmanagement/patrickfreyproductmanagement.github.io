@@ -14,6 +14,7 @@ On the other hand, I was not so lucky as there was hardly any professional train
 
 I was this when I realized that most knowledge can be acquired through self-study, primarily through reading online articles or books written by innovators, great product leaders and others. 
 
+<!--
 <ul>
 {% for book in site.books %}
   <li>
@@ -21,6 +22,28 @@ I was this when I realized that most knowledge can be acquired through self-stud
   </li>
 {% endfor %}
 </ul>
+-->
+
+<div class="cards-3">
+{% for book in site.books %}    
+    <div class="card">
+        <a href="{{ book.url }}">
+            <img src="/assets/books/{{ book.cover_image }}" alt="{{ book.author }}:</b> {{ book.title }}">
+        </a>        
+    </div>
+    <div class="card">
+        <strong>{{ book.author }}: {{ book.title }}</strong>
+        <br/>
+        <br/>
+        <p>
+          {{ book.summary }}
+        </p>        
+        <a href="{{ book.url }}"><b>More</b></a>
+    </div>    
+{% endfor %}
+</div>    
+
+
 
 <br/>
 <hr/>

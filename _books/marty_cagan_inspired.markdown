@@ -4,6 +4,8 @@ author: Marty Cagan
 title: Inspired - How to create products customers love
 order: 2
 amazon_link: https://www.amazon.de/INSPIRED-Create-Tech-Products-Customers/dp/1119387507
+summary: In 2013, I had the luck to participate in a product management workshop led by Marty Cagan.
+cover_image: marty_cagan_inspired.jpg
 ---
 
 In 2013, I had the luck to participate in a product management workshop led by Marty Cagan from [Silicon Valley Product Group (SPVG)](https://www.svpg.com/). 
