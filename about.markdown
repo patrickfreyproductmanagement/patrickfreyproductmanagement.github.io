@@ -29,6 +29,8 @@ In 2016, the readers of the trade magazines Elektronik and [Elektronik automotiv
 ![image info]({{ '/assets/Bild_1_Product_of_the_Year_edit_rdax_1683x1124_90.jpg' | relative_url }})
 <small>Stefanie Eckardt, at the time editor at Elektronik automotive, presents the award myself (middle) and my colleague Ralf Rick (right)</small>
 
+Over the years, EHANDBOOK has been adopted by many vehicle manufacturers, their suppliers as well as engineering service companies. Some of them, for example, [AUDI](https://www.etas.com/download-center-files/DLC_realtimes/RT_2021_EN_46.pdf){:target="_blank"} and [HONDA](https://www.etas.com/download-center-files/products_EHANDBOOK/etas-honda-ehandbook-hanser-automotive-4-2022-en-20221020.pdf){:target="_blank"}, have also shared how they use and benefit from using EHANDBOOK. 
+
 # My take on product management
 
 In 2013, I had the luck to participate in a product management workshop led by Marty Cagan from [Silicon Valley Product Group (SPVG)](https://www.svpg.com/){:target="_blank"}. 
