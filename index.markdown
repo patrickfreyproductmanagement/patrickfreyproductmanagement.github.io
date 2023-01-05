@@ -9,7 +9,7 @@ layout: home
 <div class="cards">
     <div class="card">
         <p>
-        I'm <b><a href="{{ /about | relative_url }}">Patrick</a></b>, a <b>passionate product manager</b> with over 10 years' experience in building software tools for automotive software engineers. 
+        I'm <b><a href="{{ '/about' | relative_url }}">Patrick</a></b>, a <b>passionate product manager</b> with over 10 years' experience in building software tools for automotive software engineers. 
         </p>
         <p>
             My <b>key interests</b> as product manager are 
@@ -28,7 +28,7 @@ layout: home
     </div>
 </div>
 
-On this site, I share [my experiences, personal views]({% link blog.markdown %}) as well as [methods and tools that I have adopted or developed]({% link custom_methods_tools.markdown %}). 
+On this site, I share [my experiences, personal views]({{ '/blog' | relative_url }}) as well as [methods and tools that I have adopted or developed]({{ '/custom_methods_and_tools' | relative_url }}). 
 
 {% include cubude_teaser.html %}
 
