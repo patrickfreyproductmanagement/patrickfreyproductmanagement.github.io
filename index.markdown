@@ -36,4 +36,4 @@ On this site, I share [my experiences, personal views]({{ '/blog' | relative_url
 
 ## Get in touch
 
-Feel free to reach out via [email](mailto:patrick-frey@gmx.de), [LinkedIn](https://www.linkedin.com/in/freypatrick) or [Twitter](https://twitter.com/patrickcfrey). 
+Feel free to reach out via [email](mailto:patrickfreyproductmanagement@gmail.com), [LinkedIn](https://www.linkedin.com/in/freypatrick) or [Twitter](https://twitter.com/patrickcfrey). 
