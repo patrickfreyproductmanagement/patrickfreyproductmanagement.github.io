@@ -25,7 +25,8 @@ I was this when I realized that most knowledge can be acquired through self-stud
 -->
 
 <div class="cards-3">
-{% for book in site.books %}    
+{% assign sorted_books = site.books | sort: 'order' %}
+{% for book in sorted_books | sort: order %}    
     <div class="card">
         <a href="{{ book.url | relative_url }}">
             <img src="{{ '/assets/books/' | relative_url }}{{ book.cover_image }}" alt="{{ book.author }}:</b> {{ book.title }}">
