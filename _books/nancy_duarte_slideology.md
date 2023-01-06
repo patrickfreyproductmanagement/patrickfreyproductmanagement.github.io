@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 author: Nancy Duarte
 title: Slide:ology - The Art and Science of Creating Great Presentations
 order: 7

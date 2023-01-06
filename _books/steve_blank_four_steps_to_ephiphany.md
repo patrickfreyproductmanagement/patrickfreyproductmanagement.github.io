@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 author: Steve Blank
 title: The Four Steps to the Epiphany
 order: 4

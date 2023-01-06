@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 author: Eric Ries
 title: The Lean Startup
 order: 1

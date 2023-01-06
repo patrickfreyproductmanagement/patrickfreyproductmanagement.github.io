@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 author: Alexander Osterwalder
 title: Value Proposition Design - How to Create Products and Services Customers Want
 order: 9

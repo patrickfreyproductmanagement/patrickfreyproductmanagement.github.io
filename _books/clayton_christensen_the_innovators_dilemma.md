@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 author: Clayton M. Christensen
 title: The Innovators Dilemma
 order: 3

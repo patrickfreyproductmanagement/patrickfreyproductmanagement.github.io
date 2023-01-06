@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 author: Nancy Duarte
 title: Resonate - Present Visual Stories that Transform Audiences
 order: 6

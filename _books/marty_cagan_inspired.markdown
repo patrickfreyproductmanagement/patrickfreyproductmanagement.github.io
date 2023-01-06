@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 author: Marty Cagan
 title: Inspired - How to create products customers love
 order: 2

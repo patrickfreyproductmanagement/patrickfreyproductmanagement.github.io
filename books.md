@@ -33,7 +33,9 @@ I was this when I realized that most knowledge can be acquired through self-stud
         </a>        
     </div>
     <div class="card">
-        <strong>{{ book.author }}: {{ book.title }}</strong>
+        {{ book.author }}
+        <br/>
+        <strong>{{ book.title}} </strong>        
         <br/>
         <br/>
         <p>
