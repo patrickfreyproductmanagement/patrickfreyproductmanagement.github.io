@@ -18,6 +18,7 @@ In the foreword to Ulwick's book, Osterwalder writes:
 
 In the [Value Proposition Canvas]({{ '/books/alexander_osterwalder_value_proposition_design' | relative_url }}), the jobs section of the Customer Map clearly relates to Ulwick's jobs-to-be-done concepts. 
 
+<!--
 ## Key takeaways
 
 ### Chapter 1: Why do innovation projects fail?
@@ -47,6 +48,7 @@ syntax of a need statement should be.**
 * (iv) emotional and social jobs, 
 * (v) consumption chain jobs, and 
 * (vi) the buyer’s financial desired outcomes.
+-->
 
 ## TL;DR
 
