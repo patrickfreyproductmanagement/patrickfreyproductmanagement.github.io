@@ -64,6 +64,18 @@ img {
   box-shadow: rgba(0,0,0,0.4) 0px 8px 12px 0px;
 }
 
+.profilepicture {
+  background-color: $color9;
+  max-height: 300px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0rem;  
+}
+
+div.card:has(.profilepicture) {
+  text-align: center;
+}
+
 
 
 /**
