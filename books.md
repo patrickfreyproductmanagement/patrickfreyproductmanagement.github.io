@@ -8,11 +8,11 @@ Over the past years, product management has changed significantly primarily due 
 
 When I started my product management career in 2011, I was both lucky and not so lucky:
 
-I was lucky that I did not have any prior product management experience and thus did not have to unlearn any old-fashioned patterns. Also, I was lucky that there were few inspirational leader5s who encoraged me to follow my own instincts and try out something new. 
+- I was lucky that I did not have any prior product management experience and thus did not have to unlearn any old-fashioned patterns. Also, I was lucky that there were few inspirational leaders who encouraged me to follow my own passion and try out something new. 
 
-On the other hand, I was not so lucky as there was hardly any professional training material available for succeeding with new products. Most of the material available inside the company was describing how to manage existing products as part of the product engineering process. While some of the material was relevant, none of it was state-of-the-art and tailored for software products. 
+- On the other hand, I was not so lucky as there was hardly any professional training material available inside the company for succeeding with new products. Most of the material available was describing how to manage existing products as part of the product engineering process. While some of the material was relevant, none of it was state-of-the-art and tailored for agile software development projects. 
 
-I was this when I realized that most knowledge can be acquired through self-study, primarily through reading online articles or books written by innovators, great product leaders and others. 
+It was this when I realized that most knowledge can be acquired through self-study, primarily through reading online articles or books written by innovators, great product leaders and others. 
 
 <!--
 <ul>
