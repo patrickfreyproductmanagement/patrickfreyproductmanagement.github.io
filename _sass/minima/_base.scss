@@ -52,7 +52,10 @@ h1, h2, h3, h4, h5, h6 {
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
-
+@include media-query($on-palm) {
+  padding-left: 0rem;
+  padding-right: 0rem; 
+}
 
 
 /**
@@ -61,7 +64,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;  
-  box-shadow: rgba(0,0,0,0.4) 0px 8px 12px 0px;
+  box-shadow: rgba(0,0,0,0.2) 0px 8px 12px 0px;
 }
 
 .profilepicture {
@@ -71,6 +74,11 @@ img {
   padding-left: 2rem;
   padding-right: 2rem;
   padding-top: 0rem;  
+
+  @include media-query($on-palm) {
+    padding-left: 0rem;
+    padding-right: 0rem; 
+  }  
 }
 
 div.card:has(.profilepicture) {
