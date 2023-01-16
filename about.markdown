@@ -59,7 +59,17 @@ In the workshop, Marty shared a lot of knowledge on how successful product teams
 Marty's workshop was a spark. From then on, I was all on fire to become the best product manager  I can be. 
 Besides Marty's book, I read a lot of [other books]({{ '/books' | relative_url }}) as well as articles I found on the internet - many of which I found useful for my work. 
 
-10 years later, by end of 2022, I had the luck to attend the **Lean Product Management** training by [Itamar Gilad](https://itamargilad.com/){:target="_blank"}. 
+<div class="cards">
+    <div class="card">
+        <p>
+            10 years later, by end of 2022, I had the luck to attend the <b>Lean Product Management</b> training by <a href="https://itamargilad.com/" target="_blank">Itamar Gilad</a>.
+        </p>
+    </div>
+    <div class="card">
+        <img src="{{ '/assets/Lean_Software_Product_Management_Certificate.jpg' | relative_url }}" alt="Lean Software Product Management Certificate">
+        <a href="{{ '/assets/Lean_Software_Product_Management_Certificate.pdf' | relative_url }}">Download</a>
+    </div>
+</div>
 
 Both Marty and Itamar have tons of experience on how to create successful software and tech products and businesses. To any aspiring product manager, I can only recommend to read their material, try out the methods they share, and - if possible - attend a training or workshop with them. 
 
