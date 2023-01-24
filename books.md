@@ -24,6 +24,8 @@ It was this when I realized that most knowledge can be acquired through self-stu
 </ul>
 -->
 
+The following list of books has helped and inspired me on my path to becoming a passionate product manager.
+
 <div class="cards-3">
 {% assign sorted_books = site.books | sort: 'order' %}
 {% for book in sorted_books | sort: order %}    
