@@ -24,6 +24,13 @@
     gap: 3rem;
 }
 
+.cards-4 {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    gap: 1rem;
+}
+
 @media (min-width: 900px) {
     .cards {
         grid-template-columns: 690px 400px;
@@ -36,4 +43,8 @@
     .cards-3 {
         grid-template-columns: 150px 350px 150px 350px;
     }   
+
+    .cards-4 {
+        grid-template-columns: 600px 600px;
+    }      
 }
