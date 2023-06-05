@@ -18,10 +18,14 @@ permalink: /resources/
         </ol>
     </div>
     <div class="card">
-        <h4>...</h4>
+        <h4>Product Discovery</h4>
         <ol>
             <li>
+                <a href="https://productstrategy.co/working-backwards-the-amazon-prfaq-for-product-innovation/" target="_blank">Amazon Working Backwards PR/FAQ Framework</a>
+                <br/>
+                Amazon Working Backwards PR/FAQ Framework for Product Innovation
             </li>
         </ol>            
     </div>    
 </div>
+
