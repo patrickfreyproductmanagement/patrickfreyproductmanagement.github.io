@@ -38,12 +38,16 @@ plugins:
 
 header_pages: 
   - about.markdown
+  - concepts.md
   - custom_methods_tools.markdown  
   - blog.markdown
-  - books.md  
+  - books.md
 
 collections:
   books:
+    output: true
+    sort_by: order
+  concepts:
     output: true
     sort_by: order
 
