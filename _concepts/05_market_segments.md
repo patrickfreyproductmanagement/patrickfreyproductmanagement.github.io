@@ -2,6 +2,7 @@
 layout: concept
 title: "Market Segments and Market Segmentation"
 order: 5
+category: product
 ---
 
 ## Market Segments

@@ -50,6 +50,9 @@ collections:
   concepts:
     output: true
     sort_by: order
+  methods:
+    output: true
+    sort_by: order    
 
 # Exclude from processing.
 # The following items will not be processed, by default.

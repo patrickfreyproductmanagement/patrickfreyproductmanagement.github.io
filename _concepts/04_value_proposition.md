@@ -2,6 +2,7 @@
 layout: concept
 title: "Value Proposition"
 order: 4
+category: product
 ---
 
 A value proposition is a clear and concise statement that outlines the unique benefits, solutions, or value that a product or service offers to its target customers. It answers the fundamental question of "Why should customers use or buy this product?" by highlighting the specific problems it addresses, the needs it fulfills, and the advantages it brings compared to alternatives.

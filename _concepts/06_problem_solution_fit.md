@@ -2,6 +2,7 @@
 layout: concept
 title: "Problem-Solution Fit"
 order: 7
+category: product
 ---
 
 Problem-solution fit refers to the stage where a product's solution effectively addresses a specific problem or pain point that a target market is experiencing. It signifies that the product's features and functionalities align well with the identified problem and resonate with the intended users.

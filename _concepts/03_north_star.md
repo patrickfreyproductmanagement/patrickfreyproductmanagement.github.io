@@ -2,6 +2,7 @@
 layout: concept
 title: "North Star & North Star Metric"
 order: 3
+category: product
 ---
 
 ## North Star

@@ -2,6 +2,7 @@
 layout: concept
 title: "Problem-Solution Fit vs. Product-Market Fit"
 order: 8
+category: product
 ---
 
 Problem-Solution Fit and Product-Market Fit are two critical concepts stand at the foundation of a successful product journey. While they may sound similar, they represent distinct stages with unique significance. Let's delve into the differences between these concepts and explore their roles in creating impactful products.

@@ -2,6 +2,7 @@
 layout: concept
 title: "Vision & Mission"
 order: 1
+category: product
 ---
 
 ## What is a vision?

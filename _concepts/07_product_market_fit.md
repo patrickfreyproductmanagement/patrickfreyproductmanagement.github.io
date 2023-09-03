@@ -2,6 +2,7 @@
 layout: concept
 title: "Product-Market Fit"
 order: 6
+category: product
 ---
 
 Product-market fit refers to the stage in a product's development where it aligns seamlessly with the needs and preferences of a specific target market. It signifies that the product addresses a significant problem for the intended customers and delivers value that resonates with them.

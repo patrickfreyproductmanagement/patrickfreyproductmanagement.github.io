@@ -17,3 +17,15 @@ Short, easy to read and digest articles on key concepts of lean product manageme
     </li>
 {% endfor %}
 </ol>
+
+<h3>Methods</h3>
+<ol>
+{% assign sorted_methods = site.methods | sort: 'order' %}  
+{% for method in sorted_methods %}    
+    <li>
+        <a href="{{ method.url }}">
+            {{ method.title }}
+        </a>        
+    </li>
+{% endfor %}
+</ol>
