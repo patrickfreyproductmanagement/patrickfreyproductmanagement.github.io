@@ -28,7 +28,7 @@ Also, I believe that the exuses are neither helpful for those who have to use th
 
 My primary focus is on building engineering tools that users really like using. 
 I draw great inspiration from others who have succeeded in doing so and try to apply it to my own work. 
-As I like experimentation, I have developed my own method for prioritization of product backlogs: [the CUBUDE method](/cubude). Which I want to share with other. 
+As I like experimentation, I have developed my own method for prioritization of product backlogs: [the CUBE method](/CUBE). Which I want to share with other. 
 
 ## #2 Good products are often sold under value
 

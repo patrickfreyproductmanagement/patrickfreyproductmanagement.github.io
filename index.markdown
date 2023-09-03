@@ -30,7 +30,7 @@ layout: home
 
 On this site, I share [my experiences, personal views]({{ '/blog' | relative_url }}) as well as [methods and tools that I have adopted or developed]({{ '/custom_methods_and_tools' | relative_url }}). 
 
-{% include cubude_teaser.html %}
+{% include cube_teaser.html %}
 
 {% include value_based_pricing_teaser.html %}
 

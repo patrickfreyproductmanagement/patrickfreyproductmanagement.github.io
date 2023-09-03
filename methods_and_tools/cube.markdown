@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The CUBUDE prioritization method
-permalink: /cubude/
-tags: CUBUDE Scrum Kanban Prioritization Business Value Customer Value Development Effort KANO
+title: The CUBE prioritization method
+permalink: /cube/
+tags: CUBE Scrum Kanban Prioritization Business Value Customer Value Development Effort KANO
 ---
 
 Agile methods such as [Scrum](https://scrumguides.org/){:target="_blank"} and Kanban have been adopted widely over the past years, especially in software development. 
@@ -26,7 +26,7 @@ How can you explain or even defend the prioritization?
 
 What are the objectives behind the prioritization?
 
-## The CUBUDE method
+## The CUBE method
 
 The method is fundamentally based on examining backlog items from three different perspectives:
 
@@ -41,7 +41,7 @@ It thus incorporates the inputs from the three most relevant perspectives:
 - the development lead / architect for the development perspective
 -->
 
-The name CUBUDE is derived by taking the first two letters from each perspective. It is a great aid for memorizing the perspectives more easily and the order in which they should be examined.
+The name CUBE is derived by taking the first two letters from each perspective. It is a great aid for memorizing the perspectives more easily and the order in which they should be examined.
 
 ## Goals and Constraints for Prioritization
 
@@ -60,7 +60,7 @@ On the other hands, there can be constraints such as
 
 In order to be successful with your product or service, it is of utmost importance that it delivers **value** to your customers and its users. 
 
-The CUBUDE method provides a sound approach for identifying and categorizing user needs as well as gaps and opportunities in your offering. 
+The CUBE method provides a sound approach for identifying and categorizing user needs as well as gaps and opportunities in your offering. 
 
 ## The Business Perspective
 
@@ -70,7 +70,7 @@ And revenues are obtained from existing and new customers.
 
 While the interests of your customers and users should be aligned to the interests of your business, they are typically not the same. 
 
-The CUBUDE method provides an approach to cluster work items into business value categories and measure their effect on your business. 
+The CUBE method provides an approach to cluster work items into business value categories and measure their effect on your business. 
 
 This helps to focus on your business interests whilst keeping an eye on your customer interests. 
 
@@ -87,14 +87,14 @@ By bringing together the insights from three different perspectives, it is possi
 - creating packages of product backlog items for incremental release versions
 - cross-checking Business Value and Development Efforts
 
-![Product Backlog prioritized with help of CUBUDE]({{ '/assets/Product_Backlog_Prioritized_CUBUDE.jpg' | relative_url }}){:width="auto"}
+![Product Backlog prioritized with help of CUBE]({{ '/assets/Product_Backlog_Prioritized_CUBE.jpg' | relative_url }}){:width="auto"}
 
 
 ## Summary
 
 **Prioritizing work items** of a product backlog **requires substantial efforts** and is **not an easy task**. 
 
-The **CUBUDE method** can greatly **help you** to **take more rationale prioritization decisions** by taking **different perspectives** into account. This helps you to **maximize your odds of success**. 
+The **CUBE method** can greatly **help you** to **take more rationale prioritization decisions** by taking **different perspectives** into account. This helps you to **maximize your odds of success**. 
 
 - **Goals** that should be reflected in the prioritization are the **maximization of customer value**, the **maximization of business value** and the **minimization of development efforts**.
 - There exist **constraints** such as **technical** or **external dependencies** that also need to be taken into account. 
@@ -102,4 +102,4 @@ The **CUBUDE method** can greatly **help you** to **take more rationale prioriti
 - The three most relevant perspectives are the **customer perspective**, the **development perspective** and the **business perspective**.
 
 
-{% include cubude_downloads.markdown %}
+{% include cube_downloads.markdown %}
