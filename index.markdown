@@ -9,7 +9,7 @@ layout: home
 <div class="cards">
     <div class="card">
         <p>
-        I'm <b><a href="{{ '/about' | relative_url }}">Patrick</a></b>, a <b>passionate product manager</b> with over 10 years' experience in building software tools for automotive software engineers. 
+        I'm <b><a href="{{ '/about' | relative_url }}">Patrick</a></b>, a <b>passionate product manager</b> with over 15 years' experience in building software tools for automotive software engineers. 
         </p>
         <p>
             My <b>key interests</b> as product manager are 

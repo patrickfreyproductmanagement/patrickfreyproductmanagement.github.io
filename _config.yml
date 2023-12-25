@@ -21,7 +21,7 @@
 title: Patrick Frey
 email: patrickfreyleanpm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Patrick Frey is a passionate product manager with over 10 years' experience at ETAS, a 100% subsidiary of Bosch. He works with product teams building products with high focus on user benefits. 
+  Patrick Frey is a passionate product manager with over 15 years' experience. He currently works at ETAS, a 100% subsidiary of Bosch. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://patrickfreyproductmanagement.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: patrickcfrey
@@ -30,6 +30,8 @@ linkedin_username: freypatrick
 google_analytics: G-3WF06R3KTS
 
 show_excerpts: true
+
+include_downloads: false
 
 # Build settings
 theme: minima

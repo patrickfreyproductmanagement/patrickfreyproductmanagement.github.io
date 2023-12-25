@@ -103,4 +103,6 @@ Value-based pricing is a method for deriving and arguing prices for products or 
 3. The **customer business case** builds a credible **sales argumentation** by pointing out the **total cost of ownership** of your product or service for your customer. This includes pointing out the **total value created** as well as the **switching costs** involved. 
 
 
+{% if site.include_downloads == true %}
 {% include value_based_pricing_downloads.markdown %}
+{% endif %}

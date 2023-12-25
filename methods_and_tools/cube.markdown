@@ -102,4 +102,6 @@ The **CUBE method** can greatly **help you** to **take more rationale prioritiza
 - The three most relevant perspectives are the **customer perspective**, the **development perspective** and the **business perspective**.
 
 
+{% if site.include_downloads == true %}
 {% include cube_downloads.markdown %}
+{% endif %}

@@ -12,6 +12,7 @@
         </a>
     </div>
     <div class="card">
+        {% if site.include_downloads == true %}
         <a href="{{ '/value_based_pricing' | relative_url }}">
             <div>
                 Learn more
@@ -28,6 +29,13 @@
             <div class="button">
                 Download presentation (coming soon)
             </div>
-        </a>        
+        </a>
+        {% else %}
+        <a href="{{ '/value_based_pricing' | relative_url }}" style="text-decoration: none">
+            <div class="button">
+                Learn more
+            </div>
+        </a>
+        {% endif %}
     </div>
 </div>
