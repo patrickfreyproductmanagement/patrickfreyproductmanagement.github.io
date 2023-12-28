@@ -105,3 +105,9 @@ The **CUBE method** can greatly **help you** to **take more rationale prioritiza
 {% if site.include_downloads == true %}
 {% include cube_downloads.markdown %}
 {% endif %}
+
+## Interested?
+
+If you're interested in CUBE, don't hesitate to get in touch ({% include get_in_touch.html %})!
+
+There's a lot of material that I have developed to teach the CUBE priorization method as well as tools to apply it. 
