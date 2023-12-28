@@ -51,6 +51,8 @@ As the methods and tools have served me well, I want to share them to help other
 
 {% include value_based_pricing_teaser.html %}
 
-## Get in touch
+## Interested? Get in touch
 
-Feel free to reach out via [email](mailto:patrickfreyleanpm@gmail.com), [LinkedIn](https://www.linkedin.com/in/freypatrick) or [Twitter](https://twitter.com/patrickcfrey). 
+If you're interested in lean product management in general or topics such as prioritization and value-based pricing, don't hesitate to get in touch ({% include get_in_touch.html %})!
+
+There's a lot of material that I have developed to teach the methods as well as tools to apply them. 
