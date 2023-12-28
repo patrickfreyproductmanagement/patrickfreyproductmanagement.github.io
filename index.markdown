@@ -30,6 +30,23 @@ layout: home
 
 On this site, I share [my experiences, personal views]({{ '/blog' | relative_url }}) as well as [methods and tools that I have adopted or developed]({{ '/custom_methods_and_tools' | relative_url }}). 
 
+
+<h2>Check out my latest <a href="./blog">blog</a> posts</h2>
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Methods & Tools</h2>
+
+Over the past 15 years, I have **tried out** a lot of methods, **adopted many** of them and even **developed** a set of **own methods and supporting tools** that have helped me to create a **successful new B2B business** at an existing large corporation. 
+
+As the methods and tools have served me well, I want to share them to help others increasing their odds to succeed. 
+
 {% include cube_teaser.html %}
 
 {% include value_based_pricing_teaser.html %}
