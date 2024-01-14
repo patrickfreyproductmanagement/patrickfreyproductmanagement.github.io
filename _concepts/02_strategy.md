@@ -48,3 +48,9 @@ For a social networking platform, the strategy might be to focus on user engagem
 9. **Long-term Vision:** Strategy provides a bridge between short-term tasks and the long-term vision. It keeps the team focused on the bigger picture while making incremental advancements.
 
 A solid strategy is a cornerstone for success. It guides the decision-making process, optimizes resource usage, and enhances the product's competitiveness in a dynamic and evolving market.
+
+## Resources
+
+Here's a list of valuable resources on product strategy: 
+
+* Video of Marty Cagan on [Product Strategy: The Missing Link](https://www.youtube.com/watch?v=x4H_gluZI10){:target="_blank"}
