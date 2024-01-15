@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 author: Alexander Osterwalder
 title: Business Model Generation - A Handbook for Visionaries, Game Changers, and Challengers
 order: 8

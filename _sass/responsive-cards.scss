@@ -38,6 +38,13 @@
     gap: 1rem;
 }
 
+.cards-people {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    gap: 2rem;
+}
+
 @media (min-width: 900px) {
     .cards {
         grid-template-columns: 690px 400px;
@@ -57,4 +64,8 @@
     .cards-5 {
         grid-template-columns: 300px 300px 300px 300px;
     }      
+
+    .cards-people {
+        grid-template-columns: 200px 1000px;
+    }        
 }
