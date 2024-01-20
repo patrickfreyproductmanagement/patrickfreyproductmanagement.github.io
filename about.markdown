@@ -73,6 +73,15 @@ Besides Marty's book, I read a lot of [other books]({{ '/books' | relative_url }
 
 Both Marty and Itamar have tons of experience on how to create successful software and tech products and businesses. To any aspiring product manager, I can only recommend to read their material, try out the methods they share, and - if possible - attend a training or workshop with them. 
 
+# Speaking
+
+Adopting agile product development and especially lean product management is not easy, especially in traditional domains. 
+I have experienced first hand that it is in fact possible, and I am eagerly willing to share insights that I have gained and inspire others. 
+
+<div class="embedded-linkedin-post">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7027977028775632896" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
+
 # Education
 
 I am a computer scientist by education with a specialization in automotive embedded software development. 
@@ -80,3 +89,8 @@ I am a computer scientist by education with a specialization in automotive embed
 * **2000-2006:** Studied Computer Science (Informatik) at [University of Ulm](https://www.uni-ulm.de/){:target="_blank"}, Germany. Graduated with Diplom degree. Main interests in programming languages and underlying paradigms. 
 * **2004-2005:** Studied Computer Science at [Monash University](https://www.monash.edu/){:target="_blank"}, Melbourne, Australia. Main interests in parallel systems and programming languages. Graduated with Bachelor with Honors degree. 
 * **2006-2010:** Conducted research in the area of automotive software engineering. Awarded with a PhD from Ulm University. Title of [PhD thesis: "A Timing Model for Real-Time Control-Systems and its Application on Simulation and Monitoring of AUTOSAR Systems"](https://www.linkedin.com/in/freypatrick/overlay/50016542/single-media-viewer?type=DOCUMENT&profileId=ACoAAAy3fMABdRHS-IHJ4YuMaaVL7OFYF5j2mx4&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkqX4E8x8RlWBewbqax6LsQ%3D%3D){:target="_blank"}. 
+
+
+# Interested? Get in touch
+
+If you're interested in lean product management in general or topics such as prioritization and value-based pricing, don't hesitate to get in touch ({% include get_in_touch.html %})!
