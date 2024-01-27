@@ -53,7 +53,7 @@ I have experienced first hand that product managers can make quality a priority.
 ### "Feel the user’s pain"
 
 Innovating or even "only" developing on behalf of the customer is difficult when you do not come from the target user group yourself. 
-A way to continuously feel the users' pain for us was to work with real world data and constantly seek qualiative feedback through customer interaction.
+A way to continuously feel the users' pain for us was to work with real world data and constantly seek qualitative feedback through customer interaction.
 
 * How are they using the feature? 
 * Is the product we are shipping really helping them? 
