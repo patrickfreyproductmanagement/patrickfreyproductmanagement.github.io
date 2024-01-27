@@ -18,8 +18,8 @@ It helps users to
 Check out what EHANDBOOK is all about: Understand vehicle software faster!
 
 <div class="iframe-wrapper">
-<iframe width="1190" height="668" src="https://www.youtube.com/embed/XFDOwmg1ijM" title="EHANDBOOK – Understand vehicle software faster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+    <iframe width="1190" height="668" src="https://www.youtube.com/embed/XFDOwmg1ijM" title="EHANDBOOK – Understand vehicle software faster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 <br/>
 
 # Achievements
