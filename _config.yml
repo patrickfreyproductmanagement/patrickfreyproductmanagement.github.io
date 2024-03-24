@@ -42,9 +42,10 @@ header_pages:
   - about.markdown
   - concepts.md
   - custom_methods_tools.markdown  
+  - services.md
   - blog.markdown
 #  - people.markdown
-  - books.md  
+  - books.md
 
 collections:
   books:
@@ -59,6 +60,9 @@ collections:
   methods:
     output: true
     sort_by: order    
+
+exclude:
+  services.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
